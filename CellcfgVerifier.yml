@@ -1,0 +1,5 @@
+data:
+    directory: D:\data\cellcfg\20210102
+report:
+    directory: D:\data\cellcfg\20210102
+    filename: cellcfg_report_20210102.xlsx

@@ -4,7 +4,7 @@ import cx_Oracle
 def createOracleConnection():
     ip = '<stats4p ip pls>'
     port = 1521
-    SID = 'stat4p'
+    SID = 'sid'
 
     dsn_tns = cx_Oracle.makedsn(ip, port, SID)
 

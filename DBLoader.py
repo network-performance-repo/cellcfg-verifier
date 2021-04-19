@@ -113,6 +113,6 @@ def LoadCellcfgFiles(path:str):
     print('All CELLCFG files were Loaded.')
 
     oraConn.close()
-
+    
 
 
